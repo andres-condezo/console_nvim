@@ -1,1 +1,1 @@
-# nvim_plugin
+# Console NVim
